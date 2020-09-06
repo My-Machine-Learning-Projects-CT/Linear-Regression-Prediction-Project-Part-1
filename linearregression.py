@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 %matplotlib inline
 
+
 customers = pd.read_csv("Ecommerce Customers")
 customers.head()
 customers.describe()
