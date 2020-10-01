@@ -1,4 +1,4 @@
-# Linear-Regression-Prediction-Project
+# Linear-Regression-Prediction-ML-Project
 
 
 Analyse a Dataset of Ecommerce company based in New York City that sells clothing online , order either on a mobile app or website for the clothes they want.
